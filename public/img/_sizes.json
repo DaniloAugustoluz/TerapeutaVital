@@ -1,0 +1,180 @@
+{
+ "sylvia-retrato": {
+  "w": 978,
+  "h": 1026,
+  "sizes": [
+   640,
+   978
+  ]
+ },
+ "sylvia-sorriso": {
+  "w": 1072,
+  "h": 810,
+  "sizes": [
+   640,
+   1072
+  ]
+ },
+ "tratamento-coluna": {
+  "w": 864,
+  "h": 1118,
+  "sizes": [
+   640,
+   864
+  ]
+ },
+ "tratamento-coluna-wide": {
+  "w": 864,
+  "h": 603,
+  "sizes": [
+   640,
+   864
+  ]
+ },
+ "acupuntura-consultorio": {
+  "w": 880,
+  "h": 793,
+  "sizes": [
+   640,
+   880
+  ]
+ },
+ "acupuntura-sylvia": {
+  "w": 530,
+  "h": 687,
+  "sizes": [
+   530
+  ]
+ },
+ "exercicio-bola": {
+  "w": 573,
+  "h": 742,
+  "sizes": [
+   573
+  ]
+ },
+ "terapia-cervical": {
+  "w": 870,
+  "h": 768,
+  "sizes": [
+   640,
+   870
+  ]
+ },
+ "terapia-lombar": {
+  "w": 1136,
+  "h": 524,
+  "sizes": [
+   640,
+   1080,
+   1136
+  ]
+ },
+ "alongamento-maca": {
+  "w": 1015,
+  "h": 896,
+  "sizes": [
+   640,
+   1015
+  ]
+ },
+ "exercicio-elastico": {
+  "w": 1088,
+  "h": 960,
+  "sizes": [
+   640,
+   1080,
+   1088
+  ]
+ },
+ "consultorio": {
+  "w": 1376,
+  "h": 628,
+  "sizes": [
+   640,
+   1080,
+   1376
+  ]
+ },
+ "acordar-bem": {
+  "w": 2000,
+  "h": 1580,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "dor-lombar-cama": {
+  "w": 2000,
+  "h": 1333,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "dor-cervical": {
+  "w": 2000,
+  "h": 1333,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "dor-lombar-pe": {
+  "w": 2000,
+  "h": 1333,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "textura-folhas": {
+  "w": 2000,
+  "h": 2667,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "textura-folhas-quente": {
+  "w": 2000,
+  "h": 3000,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "caminhada": {
+  "w": 2000,
+  "h": 1444,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "avaliacao-coluna": {
+  "w": 2000,
+  "h": 1500,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ },
+ "acupuntura-detalhe": {
+  "w": 2000,
+  "h": 1294,
+  "sizes": [
+   640,
+   1080,
+   1600
+  ]
+ }
+}
